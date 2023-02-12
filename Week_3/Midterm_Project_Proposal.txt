@@ -1,0 +1,7 @@
+Midterm Project Proposal: 
+
+For this project I was thinking I am going to do a profolio website that displays various digital paintings/drawing I did.
+In the main page, I would like to have a panel that cycles through all the works I had done. On the side there should be 
+tabs that are categorized by date.The tabs will then link to a page that has all the works I did for that Month. In terms of 
+what I need to learn the main thing will be how to create an image file that shuffles thorugh various images. I would also
+have to to lean about linking pages through tabs and having the tabs change color when hovered on. 
