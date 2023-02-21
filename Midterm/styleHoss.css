@@ -1,0 +1,48 @@
+html,body {
+	margin:0;
+}
+
+.header {
+  padding: 5px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+ h1 {
+
+	font-size: 60px;
+
+}
+
+img {
+	padding:80px
+}
+
+.sidenav {
+ height: 100%; 
+ padding-top: 380px;
+ position: absolute;
+ top: 0;
+ right: 1750px;
+ font-size: 36px;
+ margin-left: 20px;
+}
+
+.sidenav a {
+  padding: 30px 30px 30px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #04233B;
+}
+
+.gallery a{
+ align-items: flex-end;
+}
+
