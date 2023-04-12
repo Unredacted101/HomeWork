@@ -1,0 +1,13 @@
+New Website Features:
+
+Rebuilt in bootstrap 
+
+Grid Style that Dynamically changes 
+
+Socials Link 
+
+Bootstrap Carousel 
+
+Custom Buttons
+
+Javascript animations
